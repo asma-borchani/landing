@@ -1,5 +1,5 @@
-.bunner {
-	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/background.jpg);
+.banner {
+	background-image: url(../../images/background.jpg);
 	padding: 150px 0px;
 	background-size: cover;
 	background-position: center;
